@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3919245186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51e10cab0cde95e516534d8df90be7b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 61a5d778e7a63c230327b3c8276c2bd9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0619c11c3af647a4b9d358941e0a4699, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db660a1786174ef6bb587b6426107df7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/Image.spriteatlas
+- Assets/Editor/Image/imgHomePic.png
+- Assets/Resources/Prefabs/Cube.prefab
+- Assets/Editor/Image/BG.png
+Dependencies: []
